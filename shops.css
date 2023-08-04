@@ -1,0 +1,1528 @@
+.mediaViewInfo {
+	--web-view-name: Shops;
+	--web-view-id: Shops;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Shops;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Shops {
+	position: absolute;
+	width: 1920px;
+	height: 5544px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Shops;
+	--web-view-id: Shops;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Path_24 {
+	fill: rgba(250,246,237,0.2);
+}
+.Path_24 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 5544px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_4__14 {
+	position: absolute;
+	width: 821.88px;
+	height: 72px;
+	left: 549.061px;
+	top: 21px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#Layer_1 {
+	position: absolute;
+	width: 211.349px;
+	height: 59.368px;
+	left: 0px;
+	top: 9px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(82,51,10,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 211.349px;
+	height: 59.368px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Homestead_Heritage {
+	left: 249.879px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Serif Caption;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(82,51,10,1);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(82,51,10,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 2.5px;
+	height: 65px;
+	left: 227.614px;
+	top: 7px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_25 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(82,51,10,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_25 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 2.5px;
+	left: 0px;
+	top: 111.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#potters-house-9907 {
+	position: absolute;
+	width: 1920px;
+	height: 677px;
+	left: 0px;
+	top: 249px;
+	overflow: visible;
+}
+#Shops_at_Homestead_Heritage {
+	left: 647px;
+	top: 1028px;
+	position: absolute;
+	overflow: visible;
+	width: 627px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+#Component_35__1 {
+	position: absolute;
+	width: 811px;
+	height: 895px;
+	left: 132px;
+	top: 1216px;
+	overflow: visible;
+}
+#barn-0982-500x500 {
+	position: absolute;
+	width: 811px;
+	height: 811px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_81 {
+	fill: rgba(86,80,76,1);
+}
+.Rectangle_81 {
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	height: 84px;
+	left: 0px;
+	top: 811px;
+}
+#The_Barn {
+	opacity: 0.7;
+	left: 0px;
+	top: 832px;
+	position: absolute;
+	overflow: hidden;
+	width: 812px;
+	height: 35px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#The_Pottery_Barn {
+	position: absolute;
+	width: 571px;
+	height: 630px;
+	left: 675px;
+	top: 2150px;
+	overflow: visible;
+}
+#pottery-9671-500x500 {
+	position: absolute;
+	width: 571px;
+	height: 571px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#pottery-9671-500x500_bv {
+	position: absolute;
+	width: 571px;
+	height: 571px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_84 {
+	fill: rgba(84,80,77,1);
+}
+.Rectangle_84 {
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 59px;
+	left: 0px;
+	top: 571px;
+}
+#The_Pottery_Barn_bx {
+	opacity: 0.7;
+	left: 0px;
+	top: 578px;
+	position: absolute;
+	overflow: hidden;
+	width: 572px;
+	height: 25px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Fiber_Arts_Barn {
+	position: absolute;
+	width: 571px;
+	height: 630px;
+	left: 62px;
+	top: 2150px;
+	overflow: visible;
+}
+#fiber-arts-6615-500x500 {
+	position: absolute;
+	width: 571px;
+	height: 570px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#fiber-arts-6615-500x500_b {
+	position: absolute;
+	width: 571px;
+	height: 570px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_26 {
+	fill: rgba(84,80,77,1);
+}
+.Path_26 {
+	overflow: visible;
+	position: absolute;
+	width: 571px;
+	height: 60px;
+	left: 0px;
+	top: 570px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fiber_Arts_Barn_b {
+	opacity: 0.7;
+	left: 0px;
+	top: 579px;
+	position: absolute;
+	overflow: hidden;
+	width: 572px;
+	height: 25px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#The_Woodshop {
+	position: absolute;
+	width: 811px;
+	height: 895px;
+	left: 133px;
+	top: 2819px;
+	overflow: visible;
+}
+#wood-7872-500x500 {
+	position: absolute;
+	width: 811px;
+	height: 811px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#wood-7872-500x500_b {
+	position: absolute;
+	width: 811px;
+	height: 811px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_88 {
+	fill: rgba(83,80,77,1);
+}
+.Rectangle_88 {
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	height: 84px;
+	left: 0px;
+	top: 811px;
+}
+#The_Woodshop_b {
+	opacity: 0.7;
+	left: 0px;
+	top: 832px;
+	position: absolute;
+	overflow: hidden;
+	width: 812px;
+	height: 35px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#The_General_Store {
+	position: absolute;
+	width: 571px;
+	height: 630px;
+	left: 1288px;
+	top: 3752.999px;
+	overflow: visible;
+}
+#homestead-craft-village--500x5 {
+	position: absolute;
+	width: 571px;
+	height: 570px;
+	left: 0px;
+	top: 0.001px;
+	overflow: visible;
+}
+#homestead-craft-village--500x5_ca {
+	position: absolute;
+	width: 571px;
+	height: 570px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_89 {
+	fill: rgba(82,80,77,1);
+}
+.Rectangle_89 {
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 60px;
+	left: 0px;
+	top: 570.001px;
+}
+#The_GeneraL_store {
+	opacity: 0.7;
+	left: 99px;
+	top: 578.001px;
+	position: absolute;
+	overflow: hidden;
+	width: 374px;
+	height: 25px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Heritage_Forge {
+	position: absolute;
+	width: 571px;
+	height: 630px;
+	left: 1288px;
+	top: 2150px;
+	overflow: visible;
+}
+#heritage-forge-500x500 {
+	position: absolute;
+	width: 571px;
+	height: 572px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_82 {
+	fill: rgba(83,80,77,1);
+}
+.Rectangle_82 {
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 58px;
+	left: 0px;
+	top: 572px;
+}
+#Heritage_Forge_cg {
+	opacity: 0.7;
+	left: 0px;
+	top: 580px;
+	position: absolute;
+	overflow: hidden;
+	width: 572px;
+	height: 35px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Homestead_Gristmill {
+	position: absolute;
+	width: 811px;
+	height: 895px;
+	left: 998px;
+	top: 2819px;
+	overflow: visible;
+}
+#gristmill-9864-500x500 {
+	position: absolute;
+	width: 811px;
+	height: 811px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#gristmill-9864-500x500_cj {
+	position: absolute;
+	width: 811px;
+	height: 811px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_83 {
+	fill: rgba(82,80,77,1);
+}
+.Rectangle_83 {
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	height: 84px;
+	left: 0px;
+	top: 811px;
+}
+#Homestead_Gristmill_cl {
+	opacity: 0.7;
+	left: 0px;
+	top: 833px;
+	position: absolute;
+	overflow: hidden;
+	width: 812px;
+	height: 35px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Homestead_Baskets {
+	position: absolute;
+	width: 811px;
+	height: 895px;
+	left: 988px;
+	top: 1216px;
+	overflow: visible;
+}
+#baskets-5423-500x500 {
+	position: absolute;
+	width: 811px;
+	height: 837px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#baskets-5423-500x500_co {
+	position: absolute;
+	width: 811px;
+	height: 837px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_86 {
+	fill: rgba(85,80,77,1);
+}
+.Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	height: 84px;
+	left: 0px;
+	top: 811px;
+}
+#Homestead_Baskets_cq {
+	opacity: 0.7;
+	left: 0px;
+	top: 834px;
+	position: absolute;
+	overflow: hidden;
+	width: 812px;
+	height: 35px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Homestead_Market {
+	position: absolute;
+	width: 571px;
+	height: 630px;
+	left: 62px;
+	top: 3753px;
+	overflow: visible;
+}
+#homestead-craft-village-1931-5 {
+	position: absolute;
+	width: 571px;
+	height: 571px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#homestead-craft-village-1931-5_ct {
+	position: absolute;
+	width: 571px;
+	height: 571px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_87 {
+	fill: rgba(82,80,77,1);
+}
+.Rectangle_87 {
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 59px;
+	left: 0px;
+	top: 571px;
+}
+#Homestead_Market_cv {
+	opacity: 0.7;
+	left: 0px;
+	top: 579px;
+	position: absolute;
+	overflow: hidden;
+	width: 572px;
+	height: 25px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#The_Quilt_Barn {
+	position: absolute;
+	width: 571px;
+	height: 630px;
+	left: 675px;
+	top: 3753px;
+	overflow: visible;
+}
+#n_ec98ef445a3eimage {
+	position: absolute;
+	width: 571px;
+	height: 572px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_ec98ef445a3eimage_cy {
+	position: absolute;
+	width: 571px;
+	height: 572px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_90 {
+	fill: rgba(82,80,77,1);
+}
+.Rectangle_90 {
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 58px;
+	left: 0px;
+	top: 572px;
+}
+#The_Quilt_Barn_c {
+	opacity: 0.7;
+	left: 134px;
+	top: 580px;
+	position: absolute;
+	overflow: hidden;
+	width: 305px;
+	height: 25px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Icon_material-keyboard-arrow-r {
+	opacity: 0.8;
+	fill: rgba(247,247,247,1);
+}
+.Icon_material-keyboard-arrow-r {
+	overflow: visible;
+	position: absolute;
+	width: 27.961px;
+	height: 45.281px;
+	left: 1840px;
+	top: 564.859px;
+	transform: matrix(1,0,0,1,0,0);
+	transition: all 1s ease-out;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Shops.html;
+	cursor: pointer;
+}
+#Icon_material-keyboard-arrow-l {
+	opacity: 0.2;
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-keyboard-arrow-l {
+	overflow: visible;
+	position: absolute;
+	width: 27.961px;
+	height: 45.281px;
+	left: 35.576px;
+	top: 564.859px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Homestead_Heritage_c {
+	left: 152px;
+	top: 4721px;
+	position: absolute;
+	overflow: hidden;
+	width: 314px;
+	height: 34px;
+	text-align: left;
+	font-family: PT Serif Caption;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Join_our_mailing_list_to_recei {
+	left: 1274px;
+	top: 4935px;
+	position: absolute;
+	overflow: hidden;
+	width: 497px;
+	height: 34px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 26px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_62 {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 538px;
+	height: 45px;
+	left: 1267px;
+	top: 5061px;
+}
+#Signup_Here {
+	left: 1465px;
+	top: 5069px;
+	position: absolute;
+	overflow: hidden;
+	width: 143px;
+	height: 15px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Path_11 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 538px;
+	height: 61px;
+	left: 1267px;
+	top: 4987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Email_Address {
+	opacity: 0.489;
+	left: 1287px;
+	top: 5002px;
+	position: absolute;
+	overflow: visible;
+	width: 167px;
+	height: 31px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
+}
+#Contact_Us {
+	left: 152px;
+	top: 4901px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 34px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Header {
+	position: absolute;
+	width: 349px;
+	height: 264px;
+	left: 786px;
+	top: 4889px;
+	overflow: visible;
+}
+#Shop {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 34px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Shop.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
+#Visit {
+	left: 47px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	height: 34px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Visit.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
+#Our_Story {
+	left: 23px;
+	top: 92px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	height: 34px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Our_Story.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
+#Workshops {
+	left: 75px;
+	top: 138px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 34px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Workshops___1.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
+#Watch {
+	left: 66px;
+	top: 184px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 34px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
+#Blog {
+	left: 66px;
+	top: 230px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 34px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
+#Workshops_dh {
+	left: 150px;
+	top: 5008px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	height: 34px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Homestead_Fair {
+	left: 152px;
+	top: 5106px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	height: 34px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Homestead_School {
+	left: 152px;
+	top: 5197px;
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	height: 34px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Follow_Us {
+	left: 1279px;
+	top: 5212px;
+	position: absolute;
+	overflow: hidden;
+	width: 88px;
+	height: 21px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Media {
+	left: 152px;
+	top: 5288px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 34px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#n_96_Halbert_Lane_Waco_Texas_7 {
+	left: 152px;
+	top: 4795px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 66px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#Emails {
+	position: absolute;
+	width: 331px;
+	height: 425px;
+	left: 152px;
+	top: 4935px;
+	overflow: visible;
+}
+#infohomesteadheritagecom {
+	left: 0px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	height: 33px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#Phone_254_754-9600 {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	height: 33px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#infosustainlifeorg {
+	left: 0px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 33px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#infohomesteadfaircom {
+	left: 0px;
+	top: 208px;
+	position: absolute;
+	overflow: visible;
+	width: 285px;
+	height: 33px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#hearthstonecurriculumcom {
+	left: 0px;
+	top: 300px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	height: 33px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#infoevangellifecom {
+	left: 0px;
+	top: 392px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	height: 33px;
+	text-align: left;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#Group_15 {
+	position: absolute;
+	width: 105.285px;
+	height: 24.647px;
+	left: 1281px;
+	top: 5244px;
+	overflow: visible;
+}
+#Icon_awesome-youtube {
+	fill: rgba(112,112,112,1);
+}
+.Icon_awesome-youtube {
+	overflow: visible;
+	position: absolute;
+	width: 27.305px;
+	height: 19.198px;
+	left: 77.98px;
+	top: 4.329px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-instagram {
+	fill: rgba(112,112,112,1);
+}
+.Icon_awesome-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 22.41px;
+	height: 22.405px;
+	left: 0px;
+	top: 1.122px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-facebook {
+	fill: rgba(112,112,112,1);
+}
+.Icon_awesome-facebook {
+	overflow: visible;
+	position: absolute;
+	width: 24.798px;
+	height: 24.647px;
+	left: 37.797px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_13 {
+	opacity: 0.353;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_13 {
+	overflow: visible;
+	position: absolute;
+	width: 1658px;
+	height: 2.5px;
+	left: 122.5px;
+	top: 4525.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_1__25 {
+	position: absolute;
+	width: 924px;
+	height: 76px;
+	left: 498px;
+	top: 111px;
+	overflow: visible;
+}
+#Rectangle_146 {
+	fill: rgba(82,51,10,1);
+}
+.Rectangle_146 {
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	height: 76px;
+	left: 103px;
+	top: 0px;
+}
+#Visit_d {
+	left: 122px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Workshops_d {
+	opacity: 0.8;
+	left: 732px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Workshops___1.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(82,51,10,1);
+	text-transform: uppercase;
+}
+#Our_Story_d {
+	left: 244px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Our_Story.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(82,51,10,1);
+	text-transform: uppercase;
+}
+#Blog_d {
+	left: 458px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Blog___1.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(82,51,10,1);
+	text-transform: uppercase;
+}
+#Watch_d {
+	left: 584px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: WATCH__The_Heritage_Channel.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(82,51,10,1);
+	text-transform: uppercase;
+}
+#Shop_d {
+	left: 0px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Shop.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(82,51,10,1);
+	text-transform: uppercase;
+}
+#Icon_ionic-logo-twitter {
+	fill: rgba(112,112,112,1);
+}
+.Icon_ionic-logo-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 26.972px;
+	height: 21.948px;
+	left: 1399.811px;
+	top: 5246.7px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#The_crafts_created_at_Homestea {
+	left: 498px;
+	top: 1121px;
+	position: absolute;
+	overflow: visible;
+	width: 925px;
+	height: 63px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
+}
+#Line_14 {
+	opacity: 0.195;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_14 {
+	overflow: visible;
+	position: absolute;
+	width: 766px;
+	height: 2px;
+	left: 580.5px;
+	top: 1102.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_64__1 {
+	position: absolute;
+	width: 96px;
+	height: 12px;
+	left: 912px;
+	top: 965px;
+	overflow: visible;
+}
+#Ellipse_3 {
+	fill: rgba(171,170,172,1);
+	transition: all 1s ease-out;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Shops.html;
+	cursor: pointer;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 56px;
+	top: 0px;
+}
+#Ellipse_4 {
+	fill: rgba(170,170,171,1);
+	transition: all 1s ease-out;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Shops.html;
+	cursor: pointer;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 84px;
+	top: 0px;
+}
+#Ellipse_3_ed {
+	fill: rgba(171,170,172,1);
+	transition: all 0.20000000298023224s ease-in-out;
+	--web-animation: fadein 0.20000000298023224s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Shops.html;
+	cursor: pointer;
+}
+.Ellipse_3_ed {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 28px;
+	top: 0px;
+}
+#Ellipse_12 {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+}
+#Component_58__27 {
+	position: absolute;
+	width: 1920px;
+	height: 63px;
+	left: 0px;
+	top: 186px;
+	overflow: visible;
+}
+#Component_1__36 {
+	position: absolute;
+	width: 1920px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_19 {
+	fill: rgba(45,37,31,0.8);
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dine {
+	opacity: 0.59;
+	left: 842px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Dine.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Tour {
+	opacity: 0.59;
+	left: 1193px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#Events {
+	opacity: 0.59;
+	left: 1000px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Events.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
+#ShopS {
+	left: 665px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Wooden_Furniture.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(254,253,252,1);
+	text-transform: uppercase;
+}
